@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "oshop-6ce8f"
+  }
+  ,
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+
